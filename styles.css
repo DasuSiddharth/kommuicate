@@ -1,0 +1,92 @@
+.heading{
+    margin-top: 20px;
+    margin-left: 50px;
+    
+}
+
+.automate{
+    color: black ;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+}
+
+.store{
+    color:#5553B7;
+    font-size: larger;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+.buttons{
+    margin-left: 50px;
+    margin-top: -40px;
+    
+
+}
+
+.tryforfree {
+    padding: 20px;
+    font-weight: bolder;
+}
+.Bookademo{
+    padding :20px;
+    color:#5553B7;
+    font-weight: bolder;
+}
+
+.button1{
+    color: white;
+    text-align: center;
+    border-radius: 25px;
+    margin: 0px;
+    height: 36px;
+    background-color: #2DD35C;
+    border: 0;
+}
+.button2{
+    text-align: center;
+    border-radius: 25px;
+    height: 36px;
+    border-color:#5553B7;
+
+    
+}
+
+.circle {
+    height: 500px;
+    width: 500px;
+    background-color: #555;
+    border-radius: 50%;
+  }
+
+
+  #line {
+    border-radius: 0px 500px 30px 5px;
+    display: grid;
+    border:#2DD35C solid;
+    position:absolute;
+    left:0;
+    z-index: -2;
+    margin-top: 100px;
+    margin-left: 0px;
+    padding: 20px;
+    width: 80%;
+    height: 250px;
+    
+  }
+  #rightbox{
+    float:right;
+    border-radius: 400px 0px 0px 20px;
+    display: grid; 
+       z-index: -1;
+    /* border: solid; */
+  background-color: #5553B7;
+    opacity: 0.4;
+   
+
+    margin-top: 180px;
+    margin-right: 0px;
+    padding: 0px;
+    width: 800px;
+    height: 190px;
+  }
